@@ -14,7 +14,7 @@
 }
 body{
     
-    background-image: url(SOLIDBLUE.png);
+    background-image: url(./SOLIDBLUE.png);
     background-attachment: fixed;
     background-size: cover;
     color: white;
@@ -112,7 +112,7 @@ header ul li{
 }
 section{
    
-    background-image: url(../images/SOLIDBLUE.png);
+    background-image: url(./SOLIDBLUE.png);
    background-size: cover;
     
     
@@ -263,7 +263,7 @@ p{
 }
 
 .front{
-    background: url(../images/academia.png);
+    background: url(./academia.png);
     background-size: cover;
     background-position: center;
     
@@ -297,31 +297,31 @@ p{
     text-align: center;
 }
 .front1{
-    background: url(../images/shopper.png);
+    background: url(./shopper.png);
     background-size: cover;
     background-position: center;
     
 }
 .front2{
-    background: url(../images/online\ bookstore.png);
+    background: url(./online\ bookstore.png);
     background-size: cover;
     background-position: center;
     
 }
 .front3{
-    background: url(../images/MULTICALC.png);
+    background: url(./MULTICALC.png);
     background-size: cover;
     background-position: center;
     
 }
 .front4{
-    background: url(../images/port.png);
+    background: url(./port.png);
     background-size: cover;
     background-position: center;
     
 }
 .front5{
-    background: url(../images/camera.png);
+    background: url(./camera.png);
     background-size: cover;
     background-position: center;
     
