@@ -498,7 +498,7 @@ a{
     
     .image img{
         width: 370px;
-        margin-left: -60px;
+        margin-left: -65px;
     }
     .xxximg {
         display: none;
@@ -526,11 +526,11 @@ a{
         width: 320px;
     }
     .skl{
-        width: 380px;
+        width: 350px;
     }
     .cardcontainer{
         display: block;
-        margin-left: 5px;
+        margin-left: 8px;
         
     }
     .card{
