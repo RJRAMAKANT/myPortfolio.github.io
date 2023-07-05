@@ -114,6 +114,7 @@ section{
    
     background-image: url(./SOLIDBLUE.png);
    background-size: cover;
+     overflow: hidden;
     
     
 }
