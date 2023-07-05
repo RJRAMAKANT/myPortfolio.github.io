@@ -498,7 +498,7 @@ a{
     
     .image img{
         width: 370px;
-        margin-left: -65px;
+        margin-left: -58px;
     }
     .xxximg {
         display: none;
@@ -526,7 +526,7 @@ a{
         width: 320px;
     }
     .skl{
-        width: 350px;
+        width: 370px;
     }
     .cardcontainer{
         display: block;
@@ -535,7 +535,7 @@ a{
     }
     .card{
         margin-top: 15px;
-        width: 350px;
+        width: 370px;
         
     }
     .footer{
