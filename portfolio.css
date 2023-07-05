@@ -530,12 +530,12 @@ a{
     }
     .cardcontainer{
         display: block;
-        margin-left: 10px;
+        margin-left: 0px;
         
     }
     .card{
         margin-top: 15px;
-        width: 400px;
+        width: 380px;
         
     }
     .footer{
